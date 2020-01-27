@@ -1,7 +1,7 @@
 # Chiller
 
 ## What is this? 🤔
-This is a program written for running an Industrial Chiller as an Internship program project.
+This is a program written for running an Industrial Chiller as an Internship project.
 
 ### Chiller? ❄
 Industrial chillers are used for controlled cooling of products, mechanisms and factory machinery in a wide range of industries.
