@@ -25,3 +25,6 @@ This method a useful estimator because it is less sensitive to outliers than the
 ## Requires
 * [LCD_Emulator_Arduino-Side](https://github.com/AbelWondafrash/LCD_Emulator_Arduino-side) and
 * [LCD_Emulator_Processing-Side](https://github.com/AbelWondafrash/LCD_Emulator_Processing-Side).
+
+
+### Read "Project take aways" to learn more about this project.
